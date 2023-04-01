@@ -1,0 +1,15 @@
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\bin\Debug\net6.0\rab14poryadin.exe
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\bin\Debug\net6.0\rab14poryadin.deps.json
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\bin\Debug\net6.0\rab14poryadin.runtimeconfig.json
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\bin\Debug\net6.0\rab14poryadin.dll
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\bin\Debug\net6.0\rab14poryadin.pdb
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\obj\Debug\net6.0\rab14poryadin.csproj.AssemblyReference.cache
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\obj\Debug\net6.0\rab14poryadin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\obj\Debug\net6.0\rab14poryadin.AssemblyInfoInputs.cache
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\obj\Debug\net6.0\rab14poryadin.AssemblyInfo.cs
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\obj\Debug\net6.0\rab14poryadin.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\obj\Debug\net6.0\rab14poryadin.dll
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\obj\Debug\net6.0\refint\rab14poryadin.dll
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\obj\Debug\net6.0\rab14poryadin.pdb
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\obj\Debug\net6.0\rab14poryadin.genruntimeconfig.cache
+C:\Users\ANDREY\Desktop\C#\rab14poryadin\obj\Debug\net6.0\ref\rab14poryadin.dll
